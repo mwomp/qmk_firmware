@@ -59,3 +59,5 @@
 /* Optional encoder pins */
 #define ENCODERS_PAD_A { B5 }
 #define ENCODERS_PAD_B { B4 }
+
+#define ENCODER_RESOLUTIONS { 2, 4 }
